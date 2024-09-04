@@ -1,0 +1,7 @@
+invexclient/node_modules/
+invexserver/node_modules/
+invexclient/dist/
+invexserver/dist/
+invexclient/.env/
+invexserver/.env/
+invexclient/.next/

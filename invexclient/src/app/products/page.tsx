@@ -85,7 +85,7 @@ const Products = () => {
                         alt={product.name}
                         width={150}
                         height={150}
-                        className="mb-3 rounded-2xl w-36 h-3"
+                        className="mb-3 rounded-2xl w-36 h-36"
                       />
                 <h3 className="text-lg text-gray-900 font-semibold">
                   {product.name}

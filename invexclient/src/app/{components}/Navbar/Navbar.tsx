@@ -64,7 +64,7 @@ const Navbar = () => {
           <div className='flex items-center gap-3 cursor-pointer'>
             <div className='w-9 h-9'>
               <Image
-                src="https://s3-invex.s3.amazonaws.com/profile.png"
+                src="https://s3-invex.s3.amazonaws.com/african-black-man-avatar-character-cartoon-profile-picture-ai-generated-file-no-background-png.png"
                 alt="Profile"
                 width={50}
                 height={50}
